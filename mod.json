@@ -1,0 +1,9 @@
+{
+        "name": "history",
+        "displayName": "History",
+        "author": "Xandertron",
+        "description": "Block history plugin",
+        "version": "1.0",
+        "minGameVersion": 135,
+        "hidden": true
+}
